@@ -1,0 +1,33 @@
+nav {
+    background-image: linear-gradient(to right, rgba(0, 0, 0, 0.842), rgb(20, 247, 20)); 
+    border-radius: 15px;
+}
+
+nav .navbar-brand {
+    color: rgb(20, 247, 20);
+    font-weight: 700;
+}
+
+nav .nav-link {
+    color: rgb(0, 0, 0);
+    font-weight: 500;
+}
+
+.navbar-toggler {
+    background-color: rgba(0, 0, 0, 0.79) !important;
+}
+
+.navbar-toggler-icon {
+    color:rgb(20, 247, 20) !important;
+}
+
+a.nav-link {
+    font-weight: 700;
+    font-size: 1.1em;
+}
+
+div.logout {
+    font-size: 1.5em;
+    font-weight: 600;
+}
+

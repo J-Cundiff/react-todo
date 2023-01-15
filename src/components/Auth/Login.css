@@ -1,0 +1,43 @@
+div.login {
+    min-height: 80vh;
+}
+
+
+
+.card {
+    min-height: 40vh;
+    background-image: linear-gradient(to right, rgba(19, 172, 211, 0.842), rgba(20, 247, 20, .842), rgba(19, 172, 211, 0.842));
+}
+
+div.card-header {
+    background-image: linear-gradient(to right, rgba(0, 0, 0, 0.842), rgb(20, 247, 20), rgba(0, 0, 0, 0.842)); 
+}
+
+div.card-header h2 {
+    color:#000000;
+    font-weight: 800;
+}
+
+div.card-body h3 {
+    font-size: 3em;
+    font-weight: 700;
+}
+
+div.card-body button {
+    margin-top: 25px;
+    color: #000000;
+    font-weight: 700;
+    padding: 10px;
+} 
+
+article.welcome {
+    background-image: radial-gradient(circle at 50% 50%, rgba(48, 199, 14, 1), transparent);
+    font-weight: 900;
+    
+}
+
+article.welcome h1 {
+    font-size: 4em;
+    font-weight: 900;
+    color: #00ff2b;
+}

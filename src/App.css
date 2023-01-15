@@ -1,5 +1,16 @@
+body {
+  background-image: url('./images/paul-blenkhorn-gkKI23ZeaHM-unsplash.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
 .App {
   text-align: center;
+  font-family: "Papyrus", fantasy;
+}
+button.btn.btn-outline-info {
+  background-color: #0066ff !important;
+  color: aqua;
 }
 
 .App-logo {
@@ -36,3 +47,4 @@
     transform: rotate(360deg);
   }
 }
+

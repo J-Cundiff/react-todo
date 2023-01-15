@@ -1,0 +1,7 @@
+footer {
+    background-image: linear-gradient(to left, rgb(0, 0, 0), rgb(20, 247, 20));
+  }
+
+  footer strong {
+    color: black;
+  }

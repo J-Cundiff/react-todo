@@ -1,0 +1,49 @@
+table {
+    background-image: linear-gradient(to right, rgba(19, 172, 211, 0.842), rgba(20, 247, 20, .842), rgba(19, 172, 211, 0.842));
+    border-radius: 15px;
+}
+
+table th {
+    background-color: rgba(19, 172, 211, 0.842) !important;
+    font-size: 1.5em;
+    
+}
+
+
+button.catButton {
+    background-color: rgb(19, 172, 211);
+    font-weight: 700;
+    padding: 7px;
+    border: 1px solid black;
+    border-radius: 15px;
+}
+
+table tbody td {
+    font-size: 1.25em;
+    font-weight: 600;
+}
+
+article.dashboard {
+    background-image: radial-gradient(circle at 50% 50%, rgba(48, 199, 14, 1), transparent);
+    color: #00ff2b;
+}
+
+article.dashboard h1 {
+    font-size: 4em;
+    font-weight: 900;
+}
+
+div.catCreate {
+    background-image: radial-gradient(circle at 50% 50%, rgba(48, 199, 14, 1), transparent);
+    padding: 25px 0;
+}
+
+button#editLink {
+    background-color: #00d2f1;
+    color: rgb(0, 13, 128);
+}
+
+button#deleteLink {
+    background-color: #00d2f1;
+    color: rgb(202, 4, 4);
+}
